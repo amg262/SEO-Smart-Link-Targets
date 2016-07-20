@@ -3,7 +3,7 @@
 * Plugin Name: SEO Smart Link Targets
 * Plugin URI: http://andrewmgunn.com/
 * Description: Super lightweight solution to changing all external links and internal PDF attachments to open in a new tab.
-* Version: 3.2.2
+* Version: 1.0
 * Author: Andrew M. Gunn
 * Author URI: http://andrewmgunn.com
 * Text Domain: seo-smart-link-targets
